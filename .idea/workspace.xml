@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cadf3d27-5608-45fd-8e46-6be56e966894" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS_08_EXTENDS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai2/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai2/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai2/Runbai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai3/Runbai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai4/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai4/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Extends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/ICrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Teacher.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2b9TKyI8Q56XDxX0XqCGWbKGTnS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Run.executor": "Run",
+    "Application.Runbai2.executor": "Run",
+    "Application.Runbai3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/HP/MD2-JAVA/SS_08_EXTENDS/src/Main.kt",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai1.Main" />
+      <module name="SS_08_EXTENDS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai4.Run" />
+      <module name="SS_08_EXTENDS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runbai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai3.Runbai3" />
+      <module name="SS_08_EXTENDS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Runbai3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cadf3d27-5608-45fd-8e46-6be56e966894" name="Changes" comment="" />
+      <created>1705626240063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705626240063</updated>
+      <workItem from="1705626241486" duration="12542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
